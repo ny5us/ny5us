@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ny5us
 - 👀 I’m interested in learning as many languages and frameworks as I can!
-- 🌱 I’m currently learning Kotlin!
+- 🌱 I’m currently learning C++!
 - 💞️ I’m looking to collaborate on literally anything I can get my hands on. 
 - 📫 How to reach me call me, beep me, if you want to reach me...
 
